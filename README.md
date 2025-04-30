@@ -66,8 +66,8 @@ We used **Precision**, **Recall**, **F1 Score**, and most importantly:
 
 ```bash
 # Clone the repo
-git clone https://github.com/yourusername/credit-card-fraud-unsupervised.git
-cd credit-card-fraud-unsupervised
+git clone https://github.com/ktmcquinn/Credit-Card-Fraud-Detection.git
+cd Credit-Card-Fraud-Detection
 
 # (Optional) Set up virtual environment
 pip install -r requirements.txt
